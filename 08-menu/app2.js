@@ -72,14 +72,6 @@ const menu = [
       price: 16.99,
       img: "./images/item-9.jpeg",
       desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
-    },
-    {
-      id: 10,
-      title: "bison steak",
-      category: "dinner",
-      price: 22.99,
-      img: "./images/item-10.jpeg",
-      desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
     }
   ];
 
@@ -122,8 +114,8 @@ function displayMenu(arr){
 
 };
 
-// with reduce
 /*
+// with reduce
 function getFilters(){
 
   let categories = menu.reduce((storedVals, currentVal) => {
@@ -145,6 +137,7 @@ function getFilters(){
 */
 
 
+
 // with set
 function getFilters(){
 
@@ -160,6 +153,7 @@ function getFilters(){
 }
 
 
+
 function filterFunctionality(){
   const filterBtns = document.querySelectorAll(".filter-btn");
 
@@ -169,10 +163,10 @@ function filterFunctionality(){
 
       correctTypes = menu.filter(item => {
         if (typeBtnClicked === "all"){
-          return item.category;
+          return true;
         }
-        else if (item.category === typeBtnClicked){
-          return item.category;
+        else {
+          return item.category === typeBtnClicked
         }
       });
       displayMenu(correctTypes);
