@@ -85,7 +85,6 @@ prevBtn.addEventListener("click", function(){
 
 
 randomBtn.addEventListener("click", function(){
-  console.log("wtf");
   currentIndex = Math.floor(Math.random() * reviews.length);
   showPerson(currentIndex);
 });
