@@ -39,6 +39,7 @@ const months = [
   const hours = futureDate.getHours();
   const minutes = futureDate.getMinutes();
   
+  // since.getMonth() returns # we can use it as index in arr
   let month = futureDate.getMonth();
   month = months[month];
   const weekday = weekdays[futureDate.getDay()];
@@ -46,7 +47,7 @@ const months = [
 
   /* ============================================================ */
 
-  // adjust date in hmtl
+  // adjust date in html
   giveaway.textContent = `giveaway ends on ${weekday}, ${date} ${month} ${year}, ${hours}:${minutes}am`;
   
 
