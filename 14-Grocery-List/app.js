@@ -199,9 +199,9 @@ function setupItems(){
   if (items.length > 0){
     items.forEach((item) => {
       createListItem(item.id, item.value);
-    }
-  )};
-  container.classList.add("show-container");
+    });
+    container.classList.add("show-container");
+  }
 }
 
 function createListItem(id, value) {
