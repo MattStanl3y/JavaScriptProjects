@@ -66,7 +66,7 @@ These projects range from simple functions to more complex applications, all imp
 
 ## Credits
 
-These projects were created as part of a tutorial by John Smilga on FreeCodeCamp's YouTube channel.
+These projects were created as part of a tutorial on FreeCodeCamp's YouTube channel.
 
 - Original Tutorial: [JavaScript Projects Tutorial](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=24431s)
 
