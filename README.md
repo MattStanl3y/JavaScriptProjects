@@ -20,36 +20,31 @@ These projects range from simple functions to more complex applications, all imp
 10. Scroll
 11. Tabs
 12. Countdown
-13. Lorem Ipsum
+13. Paragraph Generator
 14. Grocery
 15. Slider
 
 ## Project Previews
 
-|            Project 1             |            Project 2             |            Project 3             |
-| :------------------------------: | :------------------------------: | :------------------------------: |
-| ![Project 1](path/to/image1.jpg) | ![Project 2](path/to/image2.jpg) | ![Project 3](path/to/image3.jpg) |
-|          Color Flipper           |             Counter              |             Reviews              |
+|                Project 1                 |              Project 2              |              Project 3              |
+| :--------------------------------------: | :---------------------------------: | :---------------------------------: |
+| ![Project 1](./images/ColorFlipper.jpeg) | ![Project 2](./images/Counter.jpeg) | ![Project 3](./images/Reviews.jpeg) |
 
-|            Project 4             |            Project 5             |            Project 6             |
-| :------------------------------: | :------------------------------: | :------------------------------: |
-| ![Project 4](path/to/image4.jpg) | ![Project 5](path/to/image5.jpg) | ![Project 6](path/to/image6.jpg) |
-|              Navbar              |             Sidebar              |              Modal               |
+|             Project 4              |              Project 5              |             Project 6             |
+| :--------------------------------: | :---------------------------------: | :-------------------------------: |
+| ![Project 4](./images/Navbar.jpeg) | ![Project 5](./images/Sidebar.jpeg) | ![Project 6](./images/Modal.jpeg) |
 
-|            Project 7             |            Project 8             |            Project 9             |
-| :------------------------------: | :------------------------------: | :------------------------------: |
-| ![Project 1](path/to/image1.jpg) | ![Project 2](path/to/image2.jpg) | ![Project 3](path/to/image3.jpg) |
-|          Color Flipper           |             Counter              |             Reviews              |
+|                  Project 7                   |            Project 8             |             Project 9             |
+| :------------------------------------------: | :------------------------------: | :-------------------------------: |
+| ![Project 7](./images/QuestionDropdown.jpeg) | ![Project 8](./images/Menu.jpeg) | ![Project 9](./images/Video.jpeg) |
 
-|            Project 10            |            Project 11            |            Project 12            |
-| :------------------------------: | :------------------------------: | :------------------------------: |
-| ![Project 4](path/to/image4.jpg) | ![Project 5](path/to/image5.jpg) | ![Project 6](path/to/image6.jpg) |
-|              Navbar              |             Sidebar              |              Modal               |
+|             Project 10              |            Project 11             |                 Project 12                  |
+| :---------------------------------: | :-------------------------------: | :-----------------------------------------: |
+| ![Project 10](./images/Scroll.jpeg) | ![Project 11](./images/Tabs.jpeg) | ![Project 12](./images/CountDownTimer.jpeg) |
 
-|            Project 13            |            Project 14            |            Project 15            |
-| :------------------------------: | :------------------------------: | :------------------------------: |
-| ![Project 4](path/to/image4.jpg) | ![Project 5](path/to/image5.jpg) | ![Project 6](path/to/image6.jpg) |
-|              Navbar              |             Sidebar              |              Modal               |
+|                   Project 13                    |              Project 14              |             Project 15              |
+| :---------------------------------------------: | :----------------------------------: | :---------------------------------: |
+| ![Project 13](./images/ParagraphGenerator.jpeg) | ![Project 14](./images/grocery.jpeg) | ![Project 15](./images/Slider.jpeg) |
 
 ## Technologies Used
 
