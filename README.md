@@ -15,14 +15,16 @@ These projects range from simple functions to more complex applications, all imp
 5. Sidebar
 6. Modal
 7. Questions
-8. Menu
+8. Menu `*`
 9. Video
 10. Scroll
 11. Tabs
-12. Countdown
+12. Countdown `*`
 13. Paragraph Generator
-14. Grocery
+14. Grocery `*`
 15. Slider
+
+`*` larger project
 
 ## Project Previews
 
