@@ -8,19 +8,19 @@ These projects range from simple functions to more complex applications, all imp
 
 ## Goals of this project
 
-1. Improve core JavaScript skills without relying on frameworks or libraries
-2. Gain practical experience with DOM manipulation techniques
-3. Implement various programming logic and algorithms in real-world scenarios
-4. Develop proficiency in creating responsive designs using HTML5 and CSS3
-5. Enhance problem-solving skills through diverse coding challenges
-6. Practice efficient code organization in vanilla JavaScript applications
-7. Utilize GitHub for version control and project management
-8. Learn to break down complex problems into manageable components
-9. Explore different aspects of JavaScript, from basic concepts to advanced techniques
-10. Build a portfolio of projects demonstrating JavaScript proficiency
-11. Improve debugging skills in pure JavaScript environments
-12. Develop skills in creating interactive user interfaces without UI libraries
-13. Gain confidence in building complete web applications from the ground up
+- Improve core JavaScript skills without relying on frameworks or libraries
+- Gain practical experience with DOM manipulation techniques
+- Implement various programming logic and algorithms in real-world scenarios
+- Develop proficiency in creating responsive designs using HTML5 and CSS3
+- Enhance problem-solving skills through diverse coding challenges
+- Practice efficient code organization in vanilla JavaScript applications
+- Utilize GitHub for version control and project management
+- Learn to break down complex problems into manageable components
+- Explore different aspects of JavaScript, from basic concepts to advanced techniques
+- Build a portfolio of projects demonstrating JavaScript proficiency
+- Improve debugging skills in pure JavaScript environments
+- Develop skills in creating interactive user interfaces without UI libraries
+- Gain confidence in building complete web applications from the ground up
 
 ## Projects List
 
